@@ -1,2 +1,0 @@
-this is sample page for git:wq!
-s is my file
